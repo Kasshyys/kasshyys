@@ -1,4 +1,4 @@
-![logo](https://github.com/Kasshyys/kasshyys/blob/main/Full%20stack%20Developer.png)
+![logo](https://github.com/Kasshyys/kasshyys/blob/main/Black%20Monochrome%20Business%20LinkedIn%20Banner.png)
 <h1 align="center"> Hey I'm Aditya Prakash </h1>
  A student at ICFAI University in Jharkhand, pursuing a degree in BCA Data Science and Artificial Intelligence . With a strong foundation in computer science and a programming languages , I’m dedicated to learning and growing in this dynamic field. Currently, I am proficient in programming languages such as C ,Python, Java, and HTML alongside with CSS and JavaScript. I’m also gaining hands-on experience with frameworks like Node Js ,Flask, and Django to develop AI-powered solutions and web applications. Through my coursework and personal projects, finding the minute details for betterment of Projects.
 <h3 align="center">Building AI powered solutions to improve people's lives.</h3>
